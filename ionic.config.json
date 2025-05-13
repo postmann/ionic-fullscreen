@@ -1,0 +1,7 @@
+{
+  "name": "fullscreenTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
